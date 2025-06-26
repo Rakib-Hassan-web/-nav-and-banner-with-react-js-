@@ -31,7 +31,13 @@ return (
 
     </div>
   </div>
-<section className='banner'></section>
+<section className='banner'>
+
+  <div className="banner_text">
+    <h1>Md.Rakibul Hassan</h1>
+    <p>I'm a student of Creative IT</p>
+  </div>
+</section>
 </>
 )
 }

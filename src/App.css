@@ -75,4 +75,27 @@ background: red;
   width: 190vh;
   height: 100vh;
   padding-top: 20px;
+
+
+}
+.banner_text{
+  margin-top: 300px;
+  margin-left: 200px;
+  width: 580px;
+  background: #9cdfcadf;
+  padding: 30px;
+  border-radius: 20px;
+  cursor: pointer;
+  
+}.banner_text h1{
+  /* margin-top: 20px; */
+  font-size: 55px;
+  font-weight: 500;
+  color: black;
+}
+.banner_text p{
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: 500;
+  color: black;
 }
