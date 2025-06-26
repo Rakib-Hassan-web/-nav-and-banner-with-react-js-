@@ -5,12 +5,12 @@
 }
 
 .main {
-  width: 350vh !important;
+  width: 190vh !important;
   padding: 25px;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  /* background: white;j */
+  background: rgb(243, 93, 0);
 }
 .logo{
 transition: all linear .3s;
@@ -66,4 +66,13 @@ transition: all linear .3s;
 transform: scale(1.2);
 background: red;
 
+}
+
+/* ----------------banner----------- */
+
+.banner{
+  background: url(https://images.unsplash.com/photo-1530982011887-3cc11cc85693?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFubmVyJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D);
+  width: 190vh;
+  height: 100vh;
+  padding-top: 20px;
 }

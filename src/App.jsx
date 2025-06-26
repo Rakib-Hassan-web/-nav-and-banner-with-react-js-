@@ -30,18 +30,8 @@ return (
       <button>BUY NOW</button>
 
     </div>
-
-
-
-
-
-
-
-
-
-
-
   </div>
+<section className='banner'></section>
 </>
 )
 }
