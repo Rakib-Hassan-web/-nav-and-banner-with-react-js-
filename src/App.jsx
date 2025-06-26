@@ -9,8 +9,10 @@ const [count, setCount] = useState(0)
 return (
 <>
   <div className="main">
+    <a href="">
+      <h1 className="logo">LOGO</h1>
+    </a>
 
-    <div className="logo">LOGO</div>
 
 
     <div className="nav_items">

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 350vh !important;
+  padding: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav_items {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+}
+
+.navInp_and_btn {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+}
