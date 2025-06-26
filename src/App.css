@@ -16,7 +16,18 @@
 .nav_items {
   align-items: center;
   display: flex;
-  gap: 30px;
+  gap: 35px;
+}
+.nav_items h2{
+cursor: pointer;
+transition: all linear .3s;
+
+}
+
+.nav_items h2:hover{
+
+transform: scale(1.2);
+color: red;
 }
 
 .navInp_and_btn {
