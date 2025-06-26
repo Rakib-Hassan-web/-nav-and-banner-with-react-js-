@@ -12,6 +12,14 @@
   align-items: center;
   /* background: white;j */
 }
+.logo{
+transition: all linear .3s;
+  font-size: 45px;
+}
+.logo:hover{
+transform: scale(1.2);
+color: red;
+}
 
 .nav_items {
   align-items: center;
@@ -51,5 +59,11 @@ color: red;
  border-radius: 10px;
  background: #00f6a8;
  outline: none; font-size: 20px;
+transition: all linear .3s;
  color: black;
+}
+.navInp_and_btn button:hover{
+transform: scale(1.2);
+background: red;
+
 }
